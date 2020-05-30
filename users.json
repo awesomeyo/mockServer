@@ -39,6 +39,155 @@
   ],
   "products": [],
   "categories": [
-      { "id": 1, "name": "Toys" } 
+    {
+      "id": 1,
+      "name": "Toys"
+    }
+  ],
+  "tokens": [
+    {
+      "id": "1",
+      "name": "john smith",
+      "symbol": "^",
+      "owner": "sam smith",
+      "userId": 1,
+      "txHash": "aladdin chapter one"
+    },
+    {
+      "id": "2",
+      "name": "faker.name.findName()",
+      "symbol": "tokenSymbol",
+      "owner": "faker.lorem.word()",
+      "userId": "faker.random.uuid()",
+      "txHash": "faker.lorem.word()"
+    },
+    {
+      "id": "e4070018-86ae-4249-8540-2b3dfb7b1405",
+      "name": "Faustino Parisian",
+      "symbol": "eum",
+      "owner": "cumque",
+      "userId": "74bae9e6-d344-4f96-9661-d778a1fba956",
+      "txHash": "fuga"
+    },
+    {
+      "id": "af9b12db-6eb9-4561-9c4d-b5f888e5e6ae",
+      "name": "Dr. Keaton O'Reilly",
+      "symbol": "quo",
+      "owner": "est",
+      "userId": "f82b1489-fd0e-479e-a96d-f261f4e85912",
+      "txHash": "laborum"
+    },
+    {
+      "id": "8994bf46-feca-4c45-a7fb-59a26e1efeba",
+      "name": "Austin Bogan",
+      "symbol": "et",
+      "owner": "non",
+      "userId": "f2239fd3-8baf-4f1d-9cf8-4a68e742c1cb",
+      "txHash": "sunt"
+    },
+    {
+      "id": "41ac6cec-52dd-4920-8a04-7a6e6a1e96d4",
+      "name": "Esperanza Kuphal",
+      "symbol": "earum",
+      "owner": "numquam",
+      "userId": "43179b6e-6352-4b34-a471-db422fb78f67",
+      "txHash": "totam"
+    },
+    {
+      "id": "da91c1ec-946c-4381-8e21-628a6ceeea57",
+      "name": "Katelyn Block",
+      "symbol": "rem",
+      "owner": "similique",
+      "userId": "a7d0eac3-352e-4d0a-9418-92229f95f3da",
+      "txHash": "et"
+    },
+    {
+      "id": "e23519eb-93fb-4189-83f6-467a35f4618f",
+      "name": "Tanya Fadel",
+      "symbol": "ex",
+      "owner": "suscipit",
+      "userId": "0f31dc34-1f6e-4c49-a443-cc3e0fdd2ad5",
+      "txHash": "magni"
+    },
+    {
+      "id": "fb933120-3134-477a-9739-19dd91f03eb4",
+      "name": "Alexandre Bode",
+      "symbol": "est",
+      "owner": "quod",
+      "userId": "bd0cbfd8-556c-4031-98e7-8ca8fd060c17",
+      "txHash": "ut"
+    },
+    {
+      "id": "4acc79bb-5a10-47fb-9a6f-8e0732520bb9",
+      "name": "Bell Yost",
+      "symbol": "possimus",
+      "owner": "aliquid",
+      "userId": "12af20a2-2563-493e-8cf8-a4eff459da80",
+      "txHash": "alias"
+    },
+    {
+      "id": "0f3aa7d3-5260-4a94-ad38-d534e83ce4bf",
+      "name": "Luz Mraz",
+      "symbol": "in",
+      "owner": "incidunt",
+      "userId": "2fad16eb-97ea-47f1-a247-542fb057cceb",
+      "txHash": "vitae"
+    },
+    {
+      "id": "960b9a76-de2b-4fb8-a6f8-d47551ae819f",
+      "name": "Maybelle Cummings",
+      "symbol": "enim",
+      "owner": "et",
+      "userId": "76b89805-58e1-49a7-9f86-c9f2656bda3f",
+      "txHash": "sint"
+    },
+    {
+      "id": "4b214593-af66-4da3-a511-7e8e27d73b2a",
+      "name": "Alayna Stoltenberg",
+      "symbol": "sit",
+      "owner": "corrupti",
+      "userId": "02d9e029-4b20-409c-9645-15aa8326e119",
+      "txHash": "dolor"
+    },
+    {
+      "id": "ebbff1ea-0f98-4a4e-bcbd-c5adfc165cd4",
+      "name": "Jordyn Satterfield",
+      "symbol": "magnam",
+      "owner": "facilis",
+      "userId": "fd0617af-6bd4-4896-8708-6156c8a7cb3a",
+      "txHash": "maxime"
+    },
+    {
+      "id": "3b150a61-ae4d-4c3b-8d71-b144cafc8288",
+      "name": "Abby Schaden",
+      "symbol": "non",
+      "owner": "perspiciatis",
+      "userId": "46f1ef34-15aa-49ad-9aab-76315127c099",
+      "txHash": "quod"
+    },
+    {
+      "id": "a5612223-6b59-456c-ac99-b6d373191592",
+      "name": "Katarina Lowe",
+      "symbol": "itaque",
+      "owner": "repudiandae",
+      "userId": "84bdbedd-5a0d-44b6-8c58-ef43badd86dd",
+      "txHash": "ratione"
+    },
+    {
+      "id": "a560c2a5-ec9b-4482-8097-feaa00c4ee92",
+      "name": "Weston Hintz",
+      "symbol": "molestiae",
+      "owner": "sit",
+      "userId": "75e68174-cf76-45b9-8da8-c8360e4cd23e",
+      "txHash": "ea"
+    },
+    {
+      "id": "68f39385-35e7-4dc8-b94a-60f325300554",
+      "name": "Ulises McKenzie",
+      "symbol": "hic",
+      "owner": "culpa",
+      "userId": "d3e9f9bc-a607-476a-b50a-1e4cce752a0e",
+      "txHash": "repudiandae"
+    }
   ]
 }
